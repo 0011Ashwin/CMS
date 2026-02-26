@@ -1,0 +1,11 @@
+torch>=2.0.0
+numpy
+h5py
+requests
+tqdm
+matplotlib
+ipykernel
+scikit-learn
+uproot
+awkward
+vector

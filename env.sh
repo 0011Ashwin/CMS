@@ -1,0 +1,2 @@
+
+export DATADIR="D:/datasets"

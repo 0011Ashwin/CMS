@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (too large for git)
+*.tar
+*.tar.gz
+*.root
+*.h5
+*.hdf5
+datasets/
+
+# Model checkpoints (upload separately)
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Logs
+*.log
+*.out
